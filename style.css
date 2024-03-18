@@ -1,0 +1,31 @@
+caption{
+    /* border: 3px solid black; */
+}
+
+.data{
+    border: 3px  solid black;
+    padding: 10px;
+
+}
+
+th{
+    border: 3px solid black;
+    margin: 1rem;
+    text-align: center;
+    background-color: lightpink;
+}
+
+td{
+    border: 3px solid black;
+}
+.header{
+    border: 5px solid black;
+    padding: 10px;
+    background-color: lightskyblue;
+}
+#h{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
